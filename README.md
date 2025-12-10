@@ -1,4 +1,4 @@
-# 👨‍💻 DevOps Engineer-in-Training | Automating All the Things 🤖✨
+# 👨‍💻 DevOps Engineer-in-Training | Automating All the Things 🤖
 
 
 <div align="center">
