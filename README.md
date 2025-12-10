@@ -7,9 +7,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-Hi, I’m Akshith! I’m passionate about DevOps and automation, building reliable pipelines, and managing infrastructure efficiently. I enjoy creating repeatable, scalable workflows and continuously improving systems through Terraform, CI/CD, and cloud automation.
+Hi, I’m Akshith!, a DevOps enthusiast actively bridging the gap between development dreams and operational reality. My journey involves creating self-healing infrastructure and optimizing the CI/CD pipeline universe.
 
 #### 🚀 DevOps learner building real cloud infra with AWS, Kubernetes, Terraform & GitOps
 
