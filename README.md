@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👨‍💻 DevOps Learner | Cloud & Automation Aficionado
 
-<!--
-**Akshith07-tech/Akshith07-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=500&lines=Aspiring+DevOps+Professional+%F0%9F%9A%80;Committed+to+Mastering+DevOps+Skills+%F0%9F%94%A7;Learning+%7C+Building+%7C+Iterating+%F0%9F%93%96" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Hi, I’m Akshith! I’m passionate about building **scalable, production-ready cloud infrastructure** using **Terraform & AWS**. I enjoy automating deployments and creating reusable infrastructure templates that teams can rely on. Always learning new cloud technologies and DevOps best practices.
+
+🚀 DevOps learner building real cloud infra with AWS, Kubernetes, Terraform & GitOps
+
+🔧 Hands-on with EKS, CI/CD pipelines, serverless apps, Prometheus & Grafana
+
+🏗️ Focused on automation, clean architecture & production-style workflows
+
+📈 Learning fast, executing consistently & improving through real projects
+
+---
+
+## 🎯 Current Focus
+
+* Mastering AWS, Kubernetes, Terraform & real DevOps workflows
+
+* Building production-style CI/CD pipelines & GitOps setups
+
+* Strengthening monitoring skills with Prometheus & Grafana
+
+* Improving automation, reliability & cloud architecture fundamentals
+
+---
+
+## 🛠️ Technical Arsenal
+
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) &nbsp;&nbsp;
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) &nbsp;&nbsp;
+[![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) &nbsp;
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) &nbsp;&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;&nbsp;
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) &nbsp;&nbsp;
+[![Shell](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) &nbsp;&nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;&nbsp;
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) &nbsp;&nbsp;
+[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev) &nbsp;&nbsp;
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev) &nbsp;&nbsp;
+
+---
+
+💡 Automating everything I can | 🚀 Always improving pipelines | 🎯 Goal: Expert DevOps Engineer
+
+
