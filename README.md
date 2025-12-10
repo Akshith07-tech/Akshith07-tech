@@ -1,4 +1,5 @@
-# 👨‍💻 DevOps Learner | Cloud & Automation Aficionado
+# 👨‍💻 DevOps Engineer-in-Training | Automating All the Things 🤖✨
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1F7&width=500&lines=Aspiring+DevOps+Professional+%F0%9F%9A%80;Committed+to+Mastering+DevOps+Skills+%F0%9F%94%A7;Learning+%7C+Building+%7C+Iterating+%F0%9F%93%96" alt="Typing SVG" />
@@ -8,27 +9,27 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m Akshith! I’m passionate about building **scalable, production-ready cloud infrastructure** using **Terraform & AWS**. I enjoy automating deployments and creating reusable infrastructure templates that teams can rely on. Always learning new cloud technologies and DevOps best practices.
+Hi, I’m Akshith! I’m passionate about DevOps and automation, building reliable pipelines, and managing infrastructure efficiently. I enjoy creating repeatable, scalable workflows and continuously improving systems through Terraform, CI/CD, and cloud automation.
 
-🚀 DevOps learner building real cloud infra with AWS, Kubernetes, Terraform & GitOps
+#### 🚀 DevOps learner building real cloud infra with AWS, Kubernetes, Terraform & GitOps
 
-🔧 Hands-on with EKS, CI/CD pipelines, serverless apps, Prometheus & Grafana
+#### 🔧 Hands-on with EKS, CI/CD pipelines, serverless apps, Prometheus & Grafana
 
-🏗️ Focused on automation, clean architecture & production-style workflows
+#### 🏗️ Focused on automation, clean architecture & production-style workflows
 
-📈 Learning fast, executing consistently & improving through real projects
+#### 📈 Learning fast, executing consistently & improving through real projects
 
 ---
 
 ## 🎯 Current Focus
 
-* Mastering AWS, Kubernetes, Terraform & real DevOps workflows
+#### * Mastering AWS, Kubernetes, Terraform & real DevOps workflows
 
-* Building production-style CI/CD pipelines & GitOps setups
+#### * Building production-style CI/CD pipelines & GitOps setups
 
-* Strengthening monitoring skills with Prometheus & Grafana
+#### * Strengthening monitoring skills with Prometheus & Grafana
 
-* Improving automation, reliability & cloud architecture fundamentals
+#### * Improving automation, reliability & cloud architecture fundamentals
 
 ---
 
@@ -52,6 +53,6 @@ Hi, I’m Akshith! I’m passionate about building **scalable, production-ready 
 
 ---
 
-💡 Automating everything I can | 🚀 Always improving pipelines | 🎯 Goal: Expert DevOps Engineer
+#### 💡 Automating everything I can | 🚀 Always improving pipelines | 🎯 Goal: Expert DevOps Engineer
 
 
